@@ -8,6 +8,6 @@ s.license = 'MIT'
 s.authors = { "SK" => "nil.com" }
 s.source = { :git => "https://github.com/macios/SKVoiceWaveView.git", :tag => "1.0.0" }
 s.frameworks = 'UIKit','AVFoundation'
-s.source_files = 'SKVoiceWaveView/**/SKVoiceWaveView/*.{h,m}'
+s.source_files = 'SKVoiceWave/**/SKVoiceWaveView/*.{h,m}'
 s.requires_arc = true
 end
